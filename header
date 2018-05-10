@@ -35,9 +35,3 @@ function transfer(headers) {
         }
     }
 })();
-
-// try {
-//     console.log(transfer(headers));
-// } catch(e) {
-//     done(`文件处理错误:${e.message}`);
-// }
